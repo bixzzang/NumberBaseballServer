@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="RetailMerchantListDevo" type="PLAIN_TEXT" />
+      <mapping pattern="RetailMerchantListProd" type="PLAIN_TEXT" />
+      <mapping pattern="LOB_Replica" type="PLAIN_TEXT" />
+      <mapping pattern="PCEClientImplTest" type="PLAIN_TEXT" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
+      <mapping ext="pml" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="drl" type="PLAIN_TEXT" />
+      <mapping ext="dep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="UML Activity.puml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML Class.puml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML Component.puml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML Object.pml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML Sequence.puml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML State.puml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="UML Use Case.puml" reformat="true" live-template-enabled="true" enabled="true" />
+    </default_templates>
+  </component>
+</application>
